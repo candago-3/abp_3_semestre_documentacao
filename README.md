@@ -32,7 +32,7 @@
 <details>
  <summary>Trello</summary>
 
- ![image](https://github.com/user-attachments/assets/2c8ab457-2adc-4da6-b49a-ec4a43f88cee)(https://trello.com/b/vAKZnYTi/candago-fit)
+ ![image](https://github.com/user-attachments/assets/2c8ab457-2adc-4da6-b49a-ec4a43f88cee)
  [link para o trello](https://trello.com/b/vAKZnYTi/candago-fit)
  
  </details>

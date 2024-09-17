@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/7322f494-3500-4687-961a-953b52944a2c)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
@@ -25,7 +25,7 @@
  <details>
  <summary>Burndown</summary>
 
- <a href="https://trello.com/b/vAKZnYTi/candago-fit">Acesso ao Trello</a>
+ (![image](https://github.com/user-attachments/assets/f91fb847-8e2a-4dc3-8c55-4db47700a90e)
  
  </details>
  

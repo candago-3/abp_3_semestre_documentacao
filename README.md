@@ -28,9 +28,6 @@
  <a href="https://trello.com/b/hUS5PFH8/kanban-candago">Acesso ao Trello</a>
  
  </details>
-
-  # Apresentação
-  <a href="https://www.youtube.com/watch?v=zlTVpsR_ZiE&feature=youtu.be">Vídeo de Apresentação
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>

@@ -43,7 +43,7 @@
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 17/09/2024 | ✔️ Concluída       | [Ver Relatório](https://github.com/candago/ABP-2-Semestre-Documentacao/tree/sprint-1) |
+| 01 | 17/09/2024 | ✔️ Concluída       | [Ver Relatório](https://github.com/candago-3/abp_3_semestre_documentacao/tree/sprint_1?tab=readme-ov-file) |
 | 02 | 08/10/2023 | Não inicializada    | A definir |
 | 03 | 08/11/2023 | Não Inicializada       | A definir |
 

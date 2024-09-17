@@ -9,7 +9,6 @@
 <h1>
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlog">Backlog</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#time_candago">Time Candago</a>
 </p>

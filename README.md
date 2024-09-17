@@ -25,6 +25,8 @@
  <details>
  <summary>Burndown</summary>
 
+ ![image](https://github.com/user-attachments/assets/f0d44afb-12cf-430c-8534-830b925d9e50)
+
  <a href="https://trello.com/b/vAKZnYTi/candago-fit">Acesso ao Trello</a>
  
  </details>

@@ -25,7 +25,7 @@
  <details>
  <summary>Burndown</summary>
 
- <a href="https://trello.com/b/hUS5PFH8/kanban-candago">Acesso ao Trello</a>
+ <a href="https://trello.com/b/vAKZnYTi/candago-fit">Acesso ao Trello</a>
  
  </details>
  

@@ -29,6 +29,7 @@
  
  </details>
 
+<details>
  <summary>Trello</summary>
 
  ![image](https://github.com/user-attachments/assets/2c8ab457-2adc-4da6-b49a-ec4a43f88cee)

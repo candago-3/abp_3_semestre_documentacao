@@ -28,6 +28,12 @@
  ![image](https://github.com/user-attachments/assets/f91fb847-8e2a-4dc3-8c55-4db47700a90e)
  
  </details>
+
+ <summary>Trello</summary>
+
+ ![image](https://github.com/user-attachments/assets/2c8ab457-2adc-4da6-b49a-ec4a43f88cee)
+ [link para o trello](https://trello.com/b/vAKZnYTi/candago-fit)
  
+ </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>

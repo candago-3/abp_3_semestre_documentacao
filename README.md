@@ -45,7 +45,7 @@
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 17/09/2024 | ✔️ Concluída       | [Ver Relatório](https://github.com/candago-3/abp_3_semestre_documentacao/tree/sprint_1?tab=readme-ov-file) |
 | 02 | 08/10/2023 | ✔️ Concluída    | [Ver Relatório](https://github.com/candago-3/abp_3_semestre_documentacao/tree/sprint_2?tab=readme-ov-file) |
-| 03 | 08/11/2023 | Não Inicializada       | A definir |
+| 03 | 08/11/2023 | ✔️ Concluída       | A definir |
 
 </div>
 
